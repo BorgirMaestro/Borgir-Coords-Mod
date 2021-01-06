@@ -1,2 +1,2 @@
-# Scaldice's-Coords-Mod
+# Scaldice-Coords-Mod
 A simple Minecraft mod that displays your coordinates on screen
